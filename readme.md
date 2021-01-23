@@ -1,2 +1,2 @@
 # wiki_by_bodyrock
-wiki by bodyrock
+[wiki](\_wiki\index.md) by bodyrock
